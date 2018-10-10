@@ -16,11 +16,7 @@ class Person
     @job = human_job
   end
   
-<<<<<<< HEAD
   def job
-=======
-  def breed
->>>>>>> 6300f688ddd09579c3740041e03ed078153b5068
     @job
   end
 end
